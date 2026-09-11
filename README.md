@@ -1,4 +1,4 @@
-# ICMR_OPMD_2606 — data preparation scripts
+# OPMD_26 — data preparation scripts
 
 Standalone reproducibility scripts for the image preprocessing pipeline
 used to build the ICMR_OPMD_2606 dataset (oral lesion photographs,
